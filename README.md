@@ -12,4 +12,4 @@ Though often used synonymously, Git and GitHub are two different things. Git is 
 ## How do I get started? 
 --> Launch [this][this] link!<--
 
-[this]: https://guides.github.com/activities/hello-world/#what
+[this]: https://guides.github.com/activities/hello-world/#what#where#how
