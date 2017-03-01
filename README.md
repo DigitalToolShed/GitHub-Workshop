@@ -10,6 +10,8 @@ Though often used synonymously, Git and GitHub are two different things. Git is 
 3. Documentation: GitHub is built on the principle of being able to see the full history of a project, and thus it allows for more complete documentation than other file sharing/editing platforms 
 
 ## How do I get started? 
---> Launch [this][this] link!<--
+--> Launch [this][this] link!*<--
 
 [this]: https://guides.github.com/activities/hello-world/#what
+
+*Except for Eddie
